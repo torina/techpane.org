@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Tech Pane"
+theme = "learn"
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
